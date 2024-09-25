@@ -124,4 +124,6 @@ function getOutfitItems(address account) external view returns (OutfitItems memo
 
 ## License  
 This contract is licensed under the MIT License.
+## Video Explanation
+https://www.loom.com/share/7a5ad42cbcdf424f9a5805391cefe176
 
